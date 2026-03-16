@@ -1,5 +1,5 @@
 <h1 align="center">
-  Implementação da LeNet-5 em PyTorch 🧠🖼️
+  Implementação da LeNet-5 em PyTorch 🧠🖼️ - NLW projeto 1
 </h1>
 
 <p align="center">
